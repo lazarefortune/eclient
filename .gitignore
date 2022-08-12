@@ -1,0 +1,10 @@
+.env
+.vscode
+.idea
+
+# Created by https://www.gitignore.io/api/laravel
+
+### Laravel ###
+vendor/
+node_modules/
+
